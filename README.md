@@ -1,4 +1,4 @@
-# 🧪 BURT QA Automation & Manual Testing Report Suite
+# 🧪 BURT Software Testing and QA Reports
 
 ## ⚠️ Security & Data Privacy Disclaimer
 **Please Note:** The testing detailed in this report was conducted on a **backdated, early version** of the BURT platform in a staged demo environment. The current live website has since been updated, and the findings or defects listed here reflect historical development phases, not the present state of the system. 
@@ -131,7 +131,7 @@ BURT-QA-REPORT/
 | **Missing username** | `400 Bad Request` | Correct response | ✅ PASS |
 | **Invalid email format** | `400 Bad Request` | Correct response | ✅ PASS |
 
-🔗 **Detailed Report:** [View Full Newman Execution Report](https://mdsayemmottakee.github.io/BURT-QA-Automation-Manual-Testing-Report-Suite)
+🔗 **Detailed Report:** [View Full Newman Execution Report](https://mdsayemmottakee.github.io/BURT-Software-Testing-and-QA-Reports)
 ---
 
 ## 🚨 Critical Defect Highlight
